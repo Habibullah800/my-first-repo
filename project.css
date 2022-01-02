@@ -1,0 +1,46 @@
+<style>
+
+    p{
+        color:gold;
+        height: 350px;
+        width: 500px;
+       font-size: 18px;
+
+
+    }
+    #abc{
+        font-weight: 800;
+        color:darkblue;
+        background-color: burlywood;
+        font-family: cursive;
+        border: 15px solid yellowgreen;
+        border-radius: 25px;
+        margin: 20px 20px 10px;
+        padding: 10px;
+
+
+
+    }
+
+    .habib{
+        height: 350px;
+        width: 500px;
+        font-weight: 800;
+        color:greenyellow;
+        background-color:hotpink;
+        font-family:Arial, Helvetica, sans-serif;rgb(65, 15, 247);
+        height: 200px;
+       font-size: 18px;
+        border: 15px solid yellow;
+        border-radius: 25px;
+        margin: 20px 20px 10px;
+        padding: 10px;
+        
+    }
+    .author{
+        color: black;
+    }
+
+    
+
+</style>
